@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Gokia</h2>
-
+<!--
 ###
 
 <div align="center">
@@ -47,3 +47,4 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
